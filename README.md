@@ -14,7 +14,7 @@
 
 
 ## Description
-The Book search engine is an application using React, MongoDB, Node, and Express, Apollo and Graphql. It allows users to sign up, log in, search for books and save books to their username. 
+The Book search engine is an application using React, MongoDB, Node, and Express, Apollo and Graphql. It allows users to sign up, log in, search for books and save books to their username. Users can also delete saved books from their saved books page. 
 
 ## Deployed Site
   
